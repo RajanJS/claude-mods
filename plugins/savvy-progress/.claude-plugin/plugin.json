@@ -1,0 +1,8 @@
+{
+  "name": "savvy-progress",
+  "version": "0.1.0",
+  "description": "A progress bar above the prompt (a pixel bar and a walking crab on desktop and VS Code) and a live agents panel.",
+  "author": { "name": "RajanJS" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

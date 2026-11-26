@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "RajanJS" },
+  "plugins": [
+    {
+      "name": "savvy-progress",
+      "source": "./plugins/savvy-progress",
+      "description": "A progress bar above the prompt and a live agents panel."
+    }
+  ]
+}
